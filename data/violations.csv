@@ -1,0 +1,6 @@
+violation_id,vehicle_id,violation_type,fine_amount,violation_date,location_id
+V001,V101,Signal Jumping,1000,2023-06-01,L001
+V002,V102,Over Speeding,2000,2023-06-02,L002
+V003,V103,No Helmet,500,2023-06-03,L001
+V004,V101,Wrong Parking,800,2023-06-05,L003
+V005,V104,Over Speeding,2000,2023-06-06,L002
