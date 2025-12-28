@@ -1,0 +1,4 @@
+location_id,area_name,zone,traffic_density
+L001,Andheri West,West,High
+L002,Connaught Place,Central,Very High
+L003,Indiranagar,East,Medium
