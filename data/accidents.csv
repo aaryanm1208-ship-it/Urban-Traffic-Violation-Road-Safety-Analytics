@@ -1,0 +1,4 @@
+accident_id,vehicle_id,accident_date,location_id,severity
+A001,V101,2023-06-02,L001,Major
+A002,V102,2023-06-04,L002,Minor
+A003,V104,2023-06-06,L002,Fatal
